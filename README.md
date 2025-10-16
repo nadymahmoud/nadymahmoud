@@ -69,16 +69,10 @@
   <!-- 🔹 Databases -->
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=hive&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
    
-
-  <!-- 🔹 UI / Design -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lottie-00B8D9?style=for-the-badge&logo=lottie&logoColor=white" />
-
+ 
   <!-- 🔹 APIs & Tools -->
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
